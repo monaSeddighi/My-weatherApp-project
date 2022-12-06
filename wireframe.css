@@ -1,0 +1,54 @@
+h1{
+  margin-left: 30px;
+}
+h3{
+  margin:10px 0;
+}
+ul{
+  padding: 0;
+    display: inline;
+}
+
+li{
+  display: inline;
+        margin: 20px 10px;
+}
+a {
+  text-decoration: none;
+  color: rgb(153, 153, 249);
+}
+
+a:hover{
+    text-decoration: underline;
+    transition: all 200ms ease-in-out;
+      color: rgba(168, 168, 252, 0.4);
+}
+.sunny-bigger-image{
+display: block;
+width: 60px;
+  margin-left: -20px;
+}
+.font-change{
+  font-size: 13px;
+  color: rgba(0,0,0,0.8);
+  text-align: left;
+  margin: 0 4px;
+}
+.container-main{
+  width: 700px;
+  margin: 100px auto;
+}
+.coder{ 
+  display: block;
+  text-align: left;
+  font-size: 10px;
+}
+.container{
+  margin-bottom: 40px;
+}
+.form-inline{
+    margin: 14px 0;
+}
+.row{
+  margin:18px;
+}
